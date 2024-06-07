@@ -1,2 +1,2 @@
 # RobotFramework-Appium-Basics
-Automação Mobile com Robot Framework + Appium
+Curso QAX - Robot Framework e Appium para Android e IOS
